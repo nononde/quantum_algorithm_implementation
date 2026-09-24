@@ -1,0 +1,1 @@
+参考：https://quantum.cloud.ibm.com/learning/ja/courses/fundamentals-of-quantum-algorithms/quantum-query-algorithms/deutsch-jozsa-algorithm
